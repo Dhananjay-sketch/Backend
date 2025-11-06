@@ -126,7 +126,7 @@ st.markdown(
     """
     <div style="text-align:center; color:#5b6c6e; font-size:14px; margin-top:30px;">
         <hr style="width:80%; margin:auto; border:1px solid #2bc0a8; opacity:0.4;">
-        Built with ❤️ for <b>Allera</b> | AI Health Assistant © 2025
+         <b>Allera</b> - Built with ❤️ | AI Health Assistant © 2025
     </div>
     """,
     unsafe_allow_html=True
